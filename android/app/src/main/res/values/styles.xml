@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_api_key">YOUR_GOOGLE_API_KEY</string>
+    <string name="google_app_id">YOUR_GOOGLE_APP_ID</string>
+    <string name="project_id">remote-90c72</string>
+    <string name="firebase_storage_bucket">YOUR_FIREBASE_STORAGE_BUCKET</string>
+    <string name="gcm_defaultSenderId">YOUR_GCM_DEFAULT_SENDER_ID</string>
+    <string name="google_crash_reporting_api_key">YOUR_GOOGLE_CRASH_REPORTING_API_KEY</string>
+    <string name="google_storage_bucket">YOUR_GOOGLE_STORAGE_BUCKET</string>
+</resources>

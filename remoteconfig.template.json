@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "Name": {
+      "defaultValue": {
+        "useInAppDefault": true
+      },
+      "description": "Enter Your Name",
+      "valueType": "STRING"
+    }
+  },
+  "version": {
+    "versionNumber": "4",
+    "updateTime": "2024-04-30T11:45:39.164775Z",
+    "updateUser": {
+      "email": "omairtahirmaximus@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}
